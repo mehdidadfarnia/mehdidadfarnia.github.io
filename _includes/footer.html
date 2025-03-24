@@ -7,11 +7,12 @@
       
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-            <li>
             {%- if site.email -%}
-            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-            {%- endif -%}
+            <li>
+              <a class="u-email"> {{ site.email }} </a>
             </li>
+            {%- endif -%}
+          
         </ul>
       </div>
 
