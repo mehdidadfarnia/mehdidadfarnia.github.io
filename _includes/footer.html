@@ -7,10 +7,19 @@
       
       <div class="footer-col footer-col-1">
         <ul class="contact-list">          
-            {%- if site.email -%}
-            <!-- <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>  -->
-            {% include email=site.email %}
-            {%- endif -%}
+          {% if site.email %}
+          <li>
+            {% include icon-email.html email=site.email %}
+          </li>
+          {% endif %}
+
+          {% if site.google_scholar %}
+          <li>
+            {% include icon-google_scholar.html url=site.google_scholar %}
+          </li>
+          {% endif %}
+
+        
         </ul>
       </div>
 
