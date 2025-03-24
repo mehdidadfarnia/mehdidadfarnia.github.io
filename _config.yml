@@ -30,7 +30,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mehdidadfarnia
 google_scholar: https://scholar.google.com/citations?user=jRCsE6EAAAAJ&hl=en
 
+header_pages:
+ - about.markdown
+ - resources.markdown
+
+
 # Build settings
+  
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
@@ -43,12 +50,12 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
