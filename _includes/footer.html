@@ -9,7 +9,7 @@
         <ul class="contact-list">
             {%- if site.email -%}
             <li>
-              <p> {% include icon-email.svg %} {{ site.email }} <p>
+              <span class="icon icon--email">{% include icon-email.svg %}</span><span class="username">{{site.email }}</span>
             </li>
             {%- endif -%}
           
