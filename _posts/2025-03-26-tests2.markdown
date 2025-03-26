@@ -2,7 +2,7 @@
 layout: post
 title:  "tests2"
 date:   2025-03-26 21:14:58 -0400
-categories: writings
+categories: thewritings
 ---
 
 nueve
