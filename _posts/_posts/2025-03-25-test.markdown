@@ -1,8 +1,0 @@
----
-layout: post
-title:  "new thoughts"
-date:   2025-03-25 21:12:58 -0400
-categories: writing
----
-
-test post
