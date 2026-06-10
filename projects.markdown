@@ -3,4 +3,7 @@ layout: page
 title: Projects
 permalink: /Projects/
 ---
-coming soon
+will be making changes very soon
+
+
+test test
