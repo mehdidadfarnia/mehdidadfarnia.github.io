@@ -6,7 +6,7 @@ layout: page
 ---
 I am a research engineer at the Communications Technology Laboratory of the National Institute of Standards and Technology ([NIST](https://www.nist.gov/)). 
 
-I have completed a B.S. degree in Electrical Engineering (2012), an M.S. degree in Systems Engineering (2014), and a Ph.D. degree in Mechanical Engineering (2025), all at the University of Maryland, College Park (Go Terps!).
+I have completed a B.S. degree in Electrical Engineering (2012), an M.S. degree in Systems Engineering (2014), and a Ph.D. degree in Mechanical Engineering (2025), all at the University of Maryland, College Park (Go Terps!). My doctoral dissertation, <i>Approaches to Evaluate Condition Monitoring-Based Technologies for Manufacturing Maintenance and Risk Management</i>, can be found [here](https://www.proquest.com/openview/14434eb213bacdb36488b2fc26e7a6cb/1).
 
 Under the **CV** page, you can find a history of my academic and professional accomplishments (curriculum vitae). 
 
