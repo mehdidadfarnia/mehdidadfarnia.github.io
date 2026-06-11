@@ -8,7 +8,7 @@ I am a research engineer at the Communications Technology Laboratory of the Nati
 
 I have completed a B.S. degree in Electrical Engineering (2012), an M.S. degree in Systems Engineering (2014), and a Ph.D. degree in Mechanical Engineering (2025), all at the University of Maryland, College Park (Go Terps!).
 
-Under **CV**, 
+Under the **CV** page, you can find a history of my academic and professional accomplishments (curriculum vitae). 
 
 Under **Research**,
 
