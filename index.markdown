@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<center><img src="mehdi_color.jpg" alt="Me" style="width: 250px;"/></center>
+<center><img src="/assets/images/mehdi_color.jpg" alt="Me" style="width: 250px;"/></center>
 
 
 I am an engineer at the Communications Technology Laboratory of the National Institute of Standards and Technology ([NIST](https://www.nist.gov/)). 

@@ -4,11 +4,9 @@ title: Research
 permalink: /Research/
 ---
 
-<center><img src="mehdi_color.jpg" alt="Me" style="width: 250px;"/></center>
 
-<center><img src="/assets/images/sassywebmaster.jpg" alt="It's Sassy" style="width: 250px;"/></center>
+<center><img src="/assets/images/sassywebmaster.jpg" alt=Sassy" style="width: 500px;"/></center>
 
-**Page under construction.**
+<center>**Page under construction.**</center>
 
-test again again  againpls
 
