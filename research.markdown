@@ -5,10 +5,7 @@ permalink: /Research/
 ---
 
 
-<center><img src="/assets/images/sassywebmaster.jpg" alt=Sassy" style="width: 500px;"/></center>
-
-
-**Page under construction.**
+<center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 500px;"/></center>
 
 
 <p style="text-align: center; font-weight: bold;">Page under construction.</p>
