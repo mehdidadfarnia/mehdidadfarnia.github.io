@@ -3,4 +3,8 @@ layout: page
 title: Research
 permalink: /Research/
 ---
-tbd
+
+<center><img src="sassywebmaster.png" alt="Sassy" style="width: 400px;"/></center>
+
+**Page under construction.**
+
