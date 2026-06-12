@@ -7,6 +7,8 @@ permalink: /Research/
 
 <center><img src="/assets/images/sassywebmaster.jpg" alt=Sassy" style="width: 500px;"/></center>
 
-<center>**Page under construction.**</center>
+
+**Page under construction.**
 
 
+<p style="text-align: center; font-weight: bold;">Page under construction.</p>
