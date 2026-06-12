@@ -4,9 +4,9 @@ title: Research
 permalink: /Research/
 ---
 
-<center><img src="sassywebmaster"/></center>
+<center><img src="sassywebmaster.jpg"/></center>
 
 **Page under construction.**
 
-test again
+test again again
 
