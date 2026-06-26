@@ -10,7 +10,7 @@ permalink: /Research/
 <br>
 <br>
 
-<p style="text-align: center; font-weight: bold; color: red;">The rest of the page is under construction.</p>
+<p style="text-align: center; font-weight: bold; color: red;">The rest of this page is under construction.</p>
 <center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 500px;"/></center>
 
 
