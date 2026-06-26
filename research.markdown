@@ -8,7 +8,9 @@ permalink: /Research/
 <center><strong>This page lists and discusses contributions in selected research areas.</strong></center>
 <br>
 <br>
+<br>
+
+<p style="text-align: center; font-weight: bold; color: red;">The rest of the page is under construction.</p>
 <center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 500px;"/></center>
 
 
-<p style="text-align: center; font-weight: bold;">Page under construction.</p>
