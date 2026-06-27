@@ -34,7 +34,7 @@ permalink: /Research/
     content: '▶';
     font-size: 1rem;
     margin-left: 10px;
-    color: darkred;
+    color: darkblue;
   }
   details[open] > summary::after {
     content: '▼';
