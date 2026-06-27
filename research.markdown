@@ -39,4 +39,30 @@ hidden content 2, test
 </details> 
 
 
+<style>
+  details summary {
+    list-style: none;
+  }
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+  details > summary::after {
+    content: '▶';
+    font-size: 1rem;
+    margin-left: 10px;
+    color: darkred;
+  }
+  details[open] > summary::after {
+    content: '▼';
+  }
+</style>
+
+<details>
+  <summary style="display: flex; align-items: center;">
+    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 3</h1>
+  </summary>
+  hidden content   
+</details>
+
+
 
