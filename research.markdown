@@ -59,10 +59,19 @@ hidden content 2, test
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 3</h1>
+    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 3 brother can we get a second line that i can test this with </h1>
   </summary>
   hidden content   
 </details>
+
+
+<details>
+  <summary style="display: flex; align-items: center;">
+    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 4 </h1>
+  </summary>
+  hidden content   2
+</details>
+
 
 
 
