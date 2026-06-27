@@ -19,10 +19,11 @@ permalink: /Research/
 
 
 <details>
-  <summary><h1 style="display: block; border-bottom: 1px solid darkred;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines </h1></summary>
+  <summary style="display: flex; align-items: center;">
+    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines</h1>
+  </summary>
   hidden content   
 </details>
-
 <br>
 
 <details>
