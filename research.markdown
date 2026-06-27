@@ -24,9 +24,9 @@ permalink: /Research/
 
 <details>
   <summary>
-    <h1 style="display: inline-block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines</h1>
+    <h1 style="display: inline; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines</h1>
   </summary>
-  hidden content, this is a test again
+  hidden content, this is a test again 2
 </details>
 
 <br>
