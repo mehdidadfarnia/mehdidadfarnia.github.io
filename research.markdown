@@ -12,12 +12,14 @@ permalink: /Research/
 <p style="text-align: center; font-weight: bold; color: red;">The rest of this page is under construction.</p>
 <center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 500px;"/></center>
 
+<br>
+<br>
 
 <h1 style="text-align: center; font-weight: bold; text-decoration: underline;">Research Areas</h1>
 
 
 <details>
-  <summary><h1 style="display: inline; text-decoration: underline;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines </h1></summary>
+  <summary><h1 style="display: block; border-bottom: 1px solid darkred;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines </h1></summary>
   hidden content   
 </details>
 
