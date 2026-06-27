@@ -8,25 +8,27 @@ permalink: /Research/
 <center><strong>This page lists and discusses contributions in selected research areas.</strong></center>
 <br>
 <br>
-<br>
+
+<p style="text-align: center; font-weight: bold; color: red;">The rest of this page is under construction.</p>
+<center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 500px;"/></center>
+
+
+<h1 style="text-align: center; font-weight: bold; text-decoration: underline;">Research Areas</h1>
 
 
 <details>
-  <summary><h1 style="display: inline;">test 1</h1></summary>
+  <summary><h1 style="display: inline; text-decoration: underline;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines </h1></summary>
   hidden content   
 </details>
 
 <br>
 
 <details>
-  <summary><h1 style="display: inline;">test 2</h1></summary>  
+  <summary><<h1 style="display: inline; text-decoration: underline;">test 2</h1></summary>  
   
 hidden content 2
 
 </details> 
 
-
-<p style="text-align: center; font-weight: bold; color: red;">The rest of this page is under construction.</p>
-<center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 500px;"/></center>
 
 
