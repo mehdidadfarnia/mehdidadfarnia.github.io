@@ -12,24 +12,18 @@ permalink: /Research/
 
 
 <details>
-  <summary>Click to expand 1</summary>
-  
-  This content is hidden by default. You can include:
-  - Lists 1 
-  - **Bold text**
-  - [Links](https://example.com)
-  
+  <summary><h1>test 1</h1></summary>  
+hidden content  2
+
 </details>
 
+<br>
 
 <details>
-  <summary>test 2 </summary>
+  <summary><h1>test 2</h1></summary>  
   
-  This content is hidden by default. You can include:
-  - Lists oh wow
-  - **Bold text**
-  - [Links](https://example.com)
-  
+hidden content 2
+
 </details> 
 
 
