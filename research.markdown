@@ -12,15 +12,14 @@ permalink: /Research/
 
 
 <details>
-  <summary><h1>test 1</h1></summary>  
-hidden content  2
-
+  <summary><h1 style="display: inline;">test 1</h1></summary>
+  hidden content   
 </details>
 
 <br>
 
 <details>
-  <summary><h1>test 2</h1></summary>  
+  <summary><h1 style="display: inline;">test 2</h1></summary>  
   
 hidden content 2
 
