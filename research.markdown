@@ -15,8 +15,7 @@ permalink: /Research/
 <br>
 <br>
 
-<div style="background-color: #e8e8e8; padding: 20px;">
-Your markdown or HTML content here.
+<div style="background-color: #bfbfbf; padding: 20px;">
 
 <h1 style="text-align: center; font-weight: bold; text-decoration: underline;">Research Areas</h1>
 </div>
