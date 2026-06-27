@@ -22,22 +22,6 @@ permalink: /Research/
 
 <br>
 
-<details>
-  <summary>
-    <h1 style="display: block; border-bottom: 1px solid darkred;">test 1 this is a long section title to see if it goes to the second line without needing to underline both lines</h1>
-  </summary>
-  hidden content, this is a test again 4
-</details>
-
-<br>
-
-<details>
-  <summary><h1 style="display: inline; text-decoration: underline;">test 2</h1></summary>  
-  
-hidden content 2, test
-
-</details> 
-
 
 <style>
   details summary {
@@ -59,15 +43,16 @@ hidden content 2, test
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 3 brother can we get a second line that i can test this with </h1>
+    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;"> headline test 1 testing to see if the underline stays with a second line </h1>
   </summary>
   hidden content   
 </details>
 
+<br>
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 4 </h1>
+    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 2 </h1>
   </summary>
   hidden content   2
 </details>
