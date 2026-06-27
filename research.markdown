@@ -15,7 +15,7 @@ permalink: /Research/
 <br>
 <br>
 
-<div style="background-color: #d4d4d4; padding: 20px;">
+<div style="background-color: #d4d4d4; padding: 20px; border-radius: 8px;">
 
 <h1 style="text-align: center; font-weight: bold; text-decoration: underline;">Research Areas</h1>
 </div>
@@ -55,6 +55,22 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">test 2 </h1>
   </summary>
   hidden content   2
+</details>
+
+
+
+<details>
+  <summary style="display: flex; align-items: center;">
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">test 3 </h1>
+  </summary>
+  hidden content   3
+</details>
+
+<details>
+  <summary style="display: flex; align-items: center;">
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">test 4 </h1>
+  </summary>
+  hidden content   4
 </details>
 
 
