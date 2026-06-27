@@ -43,7 +43,7 @@ permalink: /Research/
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;"> headline test 1 testing to see if the underline stays with a second line </h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;"> headline test 1 testing to see if the underline stays with a second line </h1>
   </summary>
   hidden content   
 </details>
@@ -52,7 +52,7 @@ permalink: /Research/
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkred; margin: 0; flex: 1;">test 2 </h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">test 2 </h1>
   </summary>
   hidden content   2
 </details>
