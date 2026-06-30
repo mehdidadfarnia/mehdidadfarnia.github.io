@@ -16,7 +16,6 @@ permalink: /Research/
 <br>
 
 <div style="background-color: #d4d4d4; padding: 20px; border-radius: 8px;">
-
 <h1 style="text-align: center; font-weight: bold; text-decoration: underline;">Research Areas</h1>
 </div>
 
@@ -46,14 +45,16 @@ permalink: /Research/
   <summary style="display: flex; align-items: center;">
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Production Systems (with Condition Monitoring)</h1>
   </summary>
-  hidden content 
+<div style="background-color: #9b9bf9; padding: 20px; border-radius: 6px;">
+<h1 style="font-weight: bold;">hidden text</h1>
+</div>
 </details>
 
 <br>
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Simulation from Systems Models</h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Physics-based Simulation from Abstracted Systems Models</h1>
   </summary>
   hidden content  
 </details>
