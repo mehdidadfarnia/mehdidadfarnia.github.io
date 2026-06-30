@@ -10,7 +10,7 @@ permalink: /Research/
 <br>
 
 <p style="text-align: center; font-weight: bold; color: red;">The rest of this page is under construction.</p>
-<center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 500px;"/></center>
+<center><img src="/assets/images/sassywebmaster.jpg" alt="Sassy" style="width: 100px;"/></center>
 
 <br>
 <br>
@@ -41,36 +41,30 @@ permalink: /Research/
   }
 </style>
 
+
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;"> headline test 1 testing to see if the underline stays with a second line </h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Production Systems (with Condition Monitoring)</h1>
   </summary>
-  hidden content   
+  hidden content 
 </details>
 
 <br>
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">test 2 </h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Simulation from Systems Models</h1>
   </summary>
-  hidden content   2
+  hidden content  
 </details>
 
-
+<br>
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">test 3 </h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Energy-harvesting Microgenerators</h1>
   </summary>
-  hidden content   3
-</details>
-
-<details>
-  <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">test 4 </h1>
-  </summary>
-  hidden content   4
+  hidden content  
 </details>
 
 
