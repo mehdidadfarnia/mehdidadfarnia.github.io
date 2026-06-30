@@ -47,7 +47,15 @@ permalink: /Research/
   </summary>
 <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:710px;">
 hidden text
+<p>
+new paragraph of hidden text
 </div>
+<div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:710px;">
+hidden text, box 2
+<p>
+new paragraph of hidden text in the second box
+</div>
+
 </details>
 
 <br>
