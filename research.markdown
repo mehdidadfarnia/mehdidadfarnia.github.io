@@ -45,18 +45,14 @@ permalink: /Research/
   <summary style="display: flex; align-items: center;">
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Production Systems (with Condition Monitoring)</h1>
   </summary>
+
 <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:710px;">
 hidden text
 <p>
 new paragraph of hidden text
 </div>
-<div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:710px;">
-hidden text, box 2
-<p>
-new paragraph of hidden text in the second box
-</div>
 
-</details>
+
 
 <br>
 
