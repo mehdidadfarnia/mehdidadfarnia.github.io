@@ -45,8 +45,8 @@ permalink: /Research/
   <summary style="display: flex; align-items: center;">
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Production Systems (with Condition Monitoring)</h1>
   </summary>
-<div style="background-color: #d0d0fa; padding: 10px; border-radius: 2px;">
-<h1 style="font-weight: bold;">hidden text</h1>
+<div style="background-color: #d0d0fa; padding: 1px; border-radius: 8px;">
+hidden text
 </div>
 </details>
 
