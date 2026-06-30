@@ -53,6 +53,8 @@ new paragraph of hidden text
 </div>
 
 
+</details>
+
 
 <br>
 
