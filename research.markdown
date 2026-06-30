@@ -62,7 +62,14 @@ permalink: /Research/
   <summary style="display: flex; align-items: center;">
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Physics-based Simulation from Systems Models</h1>
   </summary>
-  hidden content  test
+    <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:97%;">
+        hidden text
+        <p> new paragraph of hidden text</p>
+    </div>
+    <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:710px;">
+        hidden text, box 2
+        <p> new paragraph of hidden text in the second box</p>
+    </div>
 </details>
 
 <br>
@@ -71,7 +78,14 @@ permalink: /Research/
   <summary style="display: flex; align-items: center;">
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Energy-harvesting Microgenerators</h1>
   </summary>
-  hidden content  
+    <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:97%;">
+        hidden text
+        <p> new paragraph of hidden text</p>
+    </div>
+    <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:710px;">
+        hidden text, box 2
+        <p> new paragraph of hidden text in the second box</p>
+    </div>
 </details>
 
 
