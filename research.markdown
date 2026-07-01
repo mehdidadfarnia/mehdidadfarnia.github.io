@@ -100,6 +100,8 @@ permalink: /Research/
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
+        <p style="font-size: 0.75em;"> Dadfarnia, Mehdi. "Energy harvesting microgenerators for body sensor networks." Master's thesis, University of Maryland, College Park, 2014.</p>
+        <p style="font-size: 0.75em;">Dadfarnia, Mehdi, Kamran Sayrafian, Paul Mitcheson, and John S. Baras. "Maximizing output power of a CFPG micro energy-harvester for wearable medical sensors." In 2014 4th International Conference on Wireless Mobile Communication and Healthcare-Transforming Healthcare Through Innovations in Mobile and Wireless Technologies (MOBIHEALTH), pp. 218-221. IEEE, 2014.</p>
     </div>
 </details>
 
