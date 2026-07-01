@@ -58,7 +58,7 @@ permalink: /Research/
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Simulation-based and Analytically-based Methods for Evaluating Condition Monitoring Technology Impact</h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Simulation-based and Analytically-based Methods for Evaluating Condition Monitoring Impact</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         hidden text
@@ -70,9 +70,6 @@ permalink: /Research/
         <p style="font-size: 0.75em;">Dadfarnia, Mehdi, Michael E. Sharp, and Jeffrey W. Herrmann. "Comprehensive evaluations of condition monitoring-based technologies in industrial maintenance: A systematic review." Journal of Manufacturing Systems 82 (2025): 449-477.</p>
         <p style="font-size: 0.75em;"> Dadfarnia, Mehdi, Michael E. Sharp, Serghei Drozdov, and Jeffrey W. Herrmann. "A simulation-based approach to assess condition monitoring-enabled maintenance in manufacturing." In 2023 7th International Conference on System Reliability and Safety (ICSRS), pp. 413-422. IEEE, 2023.</p>
         <p style="font-size: 0.75em;">Dadfarnia, Mehdi, Michael Sharp, and Timothy Sprock. "Understanding and evaluating naive diagnostics algorithms applicable in multistage manufacturing from a risk management perspective." In International Manufacturing Science and Engineering Conference, vol. 84263, p. V002T07A042. American Society of Mechanical Engineers, 2020.</p>
-
-
-
     </div>
 </details>
 
