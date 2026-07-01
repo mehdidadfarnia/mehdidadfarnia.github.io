@@ -4,8 +4,9 @@ title: Research
 permalink: /Research/
 ---
 
-<center><strong>My research uses modeling and simulation to understand and improve engineering systems, with a growing focus on integrating sensing and autonomy-enhancing technologies.</strong></center>
-<center><strong>This page lists and discusses contributions in selected research areas.</strong></center>
+<center><strong><em>My research uses modeling and simulation to understand and improve engineering systems, with a growing focus on integrating sensing and autonomy-enhancing technologies.</em></strong></center>
+<center><strong><em>This page lists and discusses contributions in selected research areas.</em></strong></center>
+
 <br>
 <br>
 
@@ -83,7 +84,7 @@ permalink: /Research/
         <p> new paragraph of hidden text</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        hidden text, box 2
+        <h3 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h3>
         <p> new paragraph of hidden text in the second box</p>
     </div>
 </details>
