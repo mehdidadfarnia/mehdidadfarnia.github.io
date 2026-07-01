@@ -8,7 +8,6 @@ permalink: /Research/
 <center><strong><em>This page lists and discusses contributions in selected research areas.</em></strong></center>
 
 <br>
-<br>
 
 <p style="text-align: center; font-weight: bold; color: red;">The rest of this page is under construction.</p>
 
