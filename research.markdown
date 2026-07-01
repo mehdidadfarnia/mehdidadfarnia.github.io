@@ -85,6 +85,11 @@ permalink: /Research/
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
+        <p> Dadfarnia, Mehdi, and Raphael Barbau. "Platform-Independent Debugging of Physical Interaction and Signal Flow Models." In SysCon, pp. 1-8. 2019.</p>
+        <p> Barbau, Raphael, Conrad Bock, and Mehdi Dadfarnia. "Translator from extended SysML to physical interaction and signal flow simulation platforms." Journal of Research of the National Institute of Standards and Technology 124 (2019): 1.</p>
+        <p> Bock, Conrad, Raphael Barbau, Ion Matei, and Mehdi Dadfarnia. "An extension of the systems modeling language for physical interaction and signal flow simulation." Systems Engineering 20, no. 5 (2017): 395-431.</p>
+        <p>Dadfarnia, Mehdi, Conrad Bock, and Raphael Barbau. "An improved method of physical interaction and signal flow modeling for systems engineering." In Conference on Systems Engineering Research (CSER 2016). Available at https://www. nist. gov/publications/improved-method-physical-interaction-and-signal-flow-modeling-systems-engineering. 2016.
+        </p>
     </div>
 </details>
 
