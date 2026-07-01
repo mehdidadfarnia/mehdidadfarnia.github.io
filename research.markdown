@@ -50,8 +50,7 @@ permalink: /Research/
         <p> new paragraph of hidden text</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        hidden text, box 2
-        <p> new paragraph of hidden text in the second box</p>
+        <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
     </div>
 </details>
 
@@ -67,8 +66,7 @@ permalink: /Research/
         <p> new paragraph of hidden text</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        hidden text, box 2
-        <p> new paragraph of hidden text in the second box</p>
+        <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
     </div>
 </details>
 
@@ -100,8 +98,7 @@ permalink: /Research/
         <p> new paragraph of hidden text</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        hidden text, box 2
-        <p> new paragraph of hidden text in the second box</p>
+        <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
     </div>
 </details>
 
