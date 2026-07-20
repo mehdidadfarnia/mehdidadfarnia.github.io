@@ -4,7 +4,7 @@ title: Research
 permalink: /Research/
 ---
 
-<center><strong><em>My research uses modeling and simulation to improve engineering systems, with a growing focus on integrating decision-making processes with sensing and autonomy-enhancing technologies in engineering system operations.</em></strong></center>
+<center><strong><em>My research uses modeling and simulation to improve engineering systems, with a growing focus on integrating sensing and autonomy-enhancing technologies into engineering system operations and their decision-making processes.</em></strong></center>
 <center><strong><em>This page lists and discusses contributions in selected research areas.</em></strong></center>
 
 <br>
