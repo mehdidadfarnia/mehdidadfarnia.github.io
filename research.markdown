@@ -9,8 +9,6 @@ permalink: /Research/
 
 <br>
 
-<p style="text-align: center; font-weight: bold; color: red;">The rest of this page is under construction.</p>
-
 <div style="background-color: #d4d4d4; padding: 20px; border-radius: 8px;">
 <h1 style="text-align: center; font-weight: bold; text-decoration: underline;">Research Activities</h1>
 </div>
