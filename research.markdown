@@ -41,8 +41,8 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Production Systems and Condition-based Maintenance</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        Manufacturing maintenance can be viewed as a support system that increases the availability of factory floor equipment (e.g., machines, workstations, material handling devices), and its importance is highlighted by the fact that it accounts for 15-70% of the cost of produced goods. The adoption of condition-based maintenance, via digital technologies (such as AI/ML, Internet of Things) that enable and expand condition monitoring, can vastly benefit maintenance departments. These condition monitoring technologies can perform anomaly detection, fault diagnosis, or failure prognosis to mitigate risk from process failures and product defects.  
-        <p> new paragraph of text</p>
+         <p>Manufacturing maintenance can be viewed as a support system that increases the availability of factory floor equipment (e.g., machines, workstations, material handling devices), and its importance is highlighted by the fact that it accounts for 15-70% of the cost of produced goods. The adoption of condition-based maintenance, via digital technologies (such as AI/ML, Internet of Things) that enable and expand condition monitoring, can vastly benefit maintenance departments. These condition monitoring technologies can perform anomaly detection, fault diagnosis, or failure prognosis to mitigate risk from process failures and product defects.</p>
+        <p>The goal of this research effort was to investigate the use of simulation-based models that evaluate the performance measures of manufacturing systems that use condition monitoring-enabled maintenance policies.</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
