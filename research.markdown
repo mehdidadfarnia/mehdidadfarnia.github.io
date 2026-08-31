@@ -41,7 +41,7 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Production Systems and Condition-based Maintenance</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        hidden text
+        Manufacturing maintenance can be viewed as a support system that increases the availability of factory floor equipment (e.g., machines, workstations, material handling devices), and its importance is highlighted by the fact that it accounts for 15-70% of the cost of produced goods. The adoption of condition-based maintenance, via digital technologies (such as AI/ML, Internet of Things) that enable and expand condition monitoring, can vastly benefit maintenance departments. These condition monitoring technologies can perform anomaly detection, fault diagnosis, or failure prognosis to mitigate risk from process failures and product defects.  
         <p> new paragraph of text</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
@@ -56,7 +56,7 @@ permalink: /Research/
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Simulation-based and Analytically-based Methods for Evaluating Condition Monitoring Impact</h1>
+    <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Analytically-based Methods for Evaluating Condition Monitoring Impact on Manufacturing Maintenance</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         hidden text
