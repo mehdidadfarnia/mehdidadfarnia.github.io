@@ -41,8 +41,11 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Modeling and Simulation of Production Systems and Condition-based Maintenance</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-         <p>Manufacturing maintenance can be viewed as a support system that increases the availability of factory floor equipment (e.g., machines, workstations, material handling devices), and its importance is highlighted by the fact that it accounts for 15-70% of the cost of produced goods. The adoption of condition-based maintenance, via digital technologies (such as AI/ML, Internet of Things) that enable and expand condition monitoring, can vastly benefit maintenance departments. These condition monitoring technologies can perform anomaly detection, fault diagnosis, or failure prognosis to mitigate risk from process failures and product defects.</p>
-        <p>The goal of this research effort was to investigate the use of simulation-based models that evaluate the performance measures of manufacturing systems that use condition monitoring-enabled maintenance policies.</p>
+         <p>Manufacturing maintenance can be viewed as a support system that increases the availability of factory floor equipment (e.g., machines, workstations, material handling devices), and its importance is highlighted by the fact that it accounts for 15-70% of the cost of produced goods. The adoption of condition-based maintenance, via digital technologies that enable and expand condition monitoring, can vastly benefit manufacturing performance. These condition monitoring technologies can perform anomaly detection, fault diagnosis, or failure prognosis to mitigate the risk of production process failures and product defects.</p>
+        <p> However, the adoption of these technologies requires strict investment justification, as their value derives from failures and risks that do not occur and often their AI/ML-based internal logic is obfuscated and does not result in easily predictable impacts. this research effort identified discrete-event simulation as a testbed for the impacts of condition monitoring-enabled maintenance policies on manufacturing performance, with the aim that evaluation procedures can be developed to leverage the simulation tools towards increasing confidence in investing into condition monitoring tools. Simulation can rapidly model manufacturing system configurations, maintenance policies, and monitoring algorithms without disrupting actual factory floor operations. Furthermore, simulation can be used to compare manufacturing scenarios by various performance measures, from algorithm-level metrics such as detection true positive rates to manufacutring-level metrics such as production throughput.</p>
+        <p>This reseach developed the <a href="github.com/usnistgov/simprocesd">SimPROCESD</a>, or Simulated-Production Resource for Operations & Conditions Evaluations to Support Decision-making, an open-source and python-based manufacturing discrete-event simulator.</p>
+
+        
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
@@ -59,7 +62,6 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Analytically-based Methods for Evaluating Condition Monitoring Impact on Manufacturing</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        hidden text
         <p> new paragraph of text</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
@@ -79,7 +81,6 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Evaluation Process and Investment Analysis for Adopting Condition Monitoring Technologies</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        hidden text
         <p> new paragraph of text</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
