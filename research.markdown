@@ -66,7 +66,8 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Analytically-based Methods for Evaluating Condition Monitoring Impact on Manufacturing</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        <p> new paragraph of text</p>
+        <p> For certain manufacturing systems that operate under condition monitoring-enabled maintenance policies, analytically-based mathematical methods for evaluating their performance can serve as an alternative to simulation-based approaches. Analytical models, once set up, can much more quickly estimate performance measures than simulation, but are limited to performance metrics for which mathematical derivations exist. Furthermore, analytical models comprise of derived equation sets that characterize a set space, and instances with larger set spaces require approximations to calculate performance metric derivations. This research effort modified existic analytical methods for manufacturing performance estimation to account for condition monitoring imapcts of condition monitoring-enable maintenance.</p>
+        <p>This research proposed two analytical models for deriving production rate or throughput, scrap rate, total work-in-process, machine blockage probabilities, and machine starvation probabilities: a condition monitoring-augmented Bernoulli model and a condition monitoring-augmented exponential model.</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
@@ -83,7 +84,7 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Evaluation Process and Investment Analysis for Adopting Condition Monitoring Technologies</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        <p> new paragraph of text</p>
+        <p> tbd</p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
