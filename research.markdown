@@ -54,6 +54,7 @@ permalink: /Research/
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
         <p style="font-size: 0.75em;">Dadfarnia, Mehdi. "Approaches to Evaluate Condition Monitoring-Based Technologies for Manufacturing Maintenance and Risk Management." PhD diss., University of Maryland, College Park, 2025.</p>
         <p style="font-size: 0.75em;"> Dadfarnia, Mehdi, Michael E. Sharp, Serghei Drozdov, and Jeffrey W. Herrmann. "A simulation-based approach to assess condition monitoring-enabled maintenance in manufacturing." In 2023 7th International Conference on System Reliability and Safety (ICSRS), pp. 413-422. IEEE, 2023.</p>
+        <p style="font-size: 0.75em;">Dadfarnia, Mehdi, Michael Sharp, and Timothy Sprock. "Understanding and evaluating naive diagnostics algorithms applicable in multistage manufacturing from a risk management perspective." In International Manufacturing Science and Engineering Conference, vol. 84263, p. V002T07A042. American Society of Mechanical Engineers, 2020.</p>
     </div>
 </details>
 
@@ -71,8 +72,6 @@ permalink: /Research/
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
         <p style="font-size: 0.75em;">Dadfarnia, Mehdi. "Approaches to Evaluate Condition Monitoring-Based Technologies for Manufacturing Maintenance and Risk Management." PhD diss., University of Maryland, College Park, 2025.</p>
         <p style="font-size: 0.75em;">Dadfarnia, Mehdi, Michael E. Sharp, and Jeffrey W. Herrmann. "Comprehensive evaluations of condition monitoring-based technologies in industrial maintenance: A systematic review." Journal of Manufacturing Systems 82 (2025): 449-477.</p>
-        <p style="font-size: 0.75em;"> Dadfarnia, Mehdi, Michael E. Sharp, Serghei Drozdov, and Jeffrey W. Herrmann. "A simulation-based approach to assess condition monitoring-enabled maintenance in manufacturing." In 2023 7th International Conference on System Reliability and Safety (ICSRS), pp. 413-422. IEEE, 2023.</p>
-        <p style="font-size: 0.75em;">Dadfarnia, Mehdi, Michael Sharp, and Timothy Sprock. "Understanding and evaluating naive diagnostics algorithms applicable in multistage manufacturing from a risk management perspective." In International Manufacturing Science and Engineering Conference, vol. 84263, p. V002T07A042. American Society of Mechanical Engineers, 2020.</p>
     </div>
 </details>
 
