@@ -88,7 +88,9 @@ permalink: /Research/
     <h1 style="display: block; border-bottom: 1px solid darkblue; margin: 0; flex: 1;">Evaluation Process and Investment Analysis for Adopting Condition Monitoring Technologies</h1>
   </summary>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
-        <p> tbd</p>
+        <p> The adoption of condition monitoring technologies for manufacturing maintenance requires strict investment justification, as their value derives from defective products and machine downtime that do not occur, and the impact of these technologies on a manufacturing system is not easily predictable prior to their adoption. Investment justification can result from a comprehensive evaluation procedure that takes into account the interplay between a manufacturing system's operations, maintenance, and condition monitoring integration. This research effort included a literature survey of condition monitoring-enabled maintenance evaluation procedures to better understand the evaluation techniques, performance measures, and investment analyses that could justify the use of monitoring-based technologies in industrial maintenance. Key findings from the survey include insufficient sensitivity analyses with evaluation parameters, misleading use of performance metrics, a lack of uncertainty quantification in cost-benefit calculations, and an absence of framing investment outcomes with the time value of money.
+        <center><img src="/assets/images/evaluation_data_items.png" alt="Conceptual model for condition monitoring-enabled maintenance evaluation, and relevant data items" style="width: 500px; margin-bottom: 13px;"/></center>
+        </p>
     </div>
     <div style="background-color: #e4e4f7; margin-top: 10px; padding: 4px; border-radius: 8px; width:96%;">
         <h4 style="text-align: center; font-weight: bold; text-decoration: underline;">Key References</h4>
