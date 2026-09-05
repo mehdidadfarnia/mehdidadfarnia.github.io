@@ -8,7 +8,7 @@ layout: page
 <center><img src="/assets/images/mehdi_color.jpg" alt="Me" style="width: 250px;"/></center>
 
 
-I am an engineer at the Communications Technology Laboratory of the National Institute of Standards and Technology ([NIST](https://www.nist.gov/)). 
+I am an engineer at the Communications Technology Laboratory of the National Institute of Standards and Technology ([NIST](https://www.nist.gov/people/mehdi-dadfarnia)). 
 
 I have completed a B.S. in Electrical Engineering (2012), an M.S. in Systems Engineering (2014), and a Ph.D. in Mechanical Engineering (2025), all at the University of Maryland, College Park (Go Terps!). My doctoral dissertation, <i>Approaches to Evaluate Condition Monitoring-Based Technologies for Manufacturing Maintenance and Risk Management</i>, was completed under the supervision of Professor [Jeffrey W. Herrmann](https://sites.google.com/cua.edu/herrmann/) and can be found [here](https://www.proquest.com/openview/14434eb213bacdb36488b2fc26e7a6cb/1).
 
